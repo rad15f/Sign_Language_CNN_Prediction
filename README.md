@@ -6,7 +6,7 @@ The overall objective of the work is to develop model to preditc sign languages 
 2. You need to use Google Colab, set up your Google Colab with the folder names like image below
 ![image](https://user-images.githubusercontent.com/73964751/168937461-c17c5d95-cbec-4add-bea6-f47e30ec1038.png)
 3. Put the p3_deep_learning.ipynb file from this repository to the p3_deep_learning folder in your Google Collab: https://github.com/yuxiaohuang/teaching/blob/master/gwu/machine_learning_I/spring_2022/code/utilities/p3_deep_learning/pmlm_utilities_deep.ipynb
-5. Set up your Kaggle Api
+5. Get your Kaggle Api Key and have it at hand.
 6. Run ML1_Final_Project.ipynb
 7. Ignore the Predictions tap :)
 
