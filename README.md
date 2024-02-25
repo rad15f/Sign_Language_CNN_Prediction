@@ -1,6 +1,10 @@
 # Sign_Language_CNN_Prediction
 The overall objective of the work is to develop model to preditc sign languages from the user. 
 
+## Objective
+Communication with those with hearing disabilities is crucial; a computer's ability to recognize and interpret these signs will make 
+life easier. Ths is an image-to-text machine learning model using state-of-art models.
+
 ### Steps to Run 
 1. Clone this repo 
 2. You need to use Google Colab, set up your Google Colab with the folder names like image below
